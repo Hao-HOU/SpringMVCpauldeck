@@ -11,6 +11,7 @@
         <module name="ch2app3" />
         <module name="ch2app4" />
         <module name="ch4annotated1" />
+        <module name="ch4annotated2" />
         <module name="springmvc-intro1" />
         <module name="springmvc-intro2" />
       </profile>
@@ -22,6 +23,7 @@
       <module name="ch2app4" target="1.8" />
       <module name="ch2appdesign1" target="1.5" />
       <module name="ch4annotated1" target="1.8" />
+      <module name="ch4annotated2" target="1.8" />
       <module name="springmvc-intro1" target="1.8" />
       <module name="springmvc-intro2" target="1.8" />
     </bytecodeTargetLevel>
