@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="ch2app1" />
+        <module name="ch2app2" />
+        <module name="ch2app3" />
+        <module name="ch2app4" />
+        <module name="springmvc-intro1" />
+        <module name="springmvc-intro2" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ch2app1" target="1.5" />
+      <module name="ch2app2" target="1.5" />
+      <module name="ch2app3" target="1.8" />
+      <module name="ch2app4" target="1.8" />
+      <module name="ch2appdesign1" target="1.5" />
+      <module name="springmvc-intro1" target="1.8" />
+      <module name="springmvc-intro2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

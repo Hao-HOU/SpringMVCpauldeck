@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch2app2:war">
+    <output-path>$PROJECT_DIR$/ch2app2/target</output-path>
+    <root id="archive" name="ch2app2-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ch2app2:war exploded" />
+    </root>
+  </artifact>
+</component>
