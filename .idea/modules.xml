@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/ch3springmvc-intro2/ch3springmvc-intro2.iml" filepath="$PROJECT_DIR$/ch3springmvc-intro2/ch3springmvc-intro2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch4annotated1/ch4annotated1.iml" filepath="$PROJECT_DIR$/ch4annotated1/ch4annotated1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch4annotated2/ch4annotated2.iml" filepath="$PROJECT_DIR$/ch4annotated2/ch4annotated2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch5tags-demo/ch5tags-demo.iml" filepath="$PROJECT_DIR$/ch5tags-demo/ch5tags-demo.iml" />
     </modules>
   </component>
 </project>

@@ -45,7 +45,7 @@ public class ProductController {
 
         Product saveProduct = productService.add(product);
 
-        redirectAttributes.addAttribute("message", "The product was successfully added.");
+        redirectAttributes.addFlashAttribute("message", "The product was successfully added.");
 
         return "redirect:/view-product/" + saveProduct.getId();
     }
