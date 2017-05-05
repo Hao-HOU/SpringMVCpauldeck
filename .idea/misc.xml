@@ -11,6 +11,7 @@
     <file type="web" url="file://$PROJECT_DIR$/ch4annotated1" />
     <file type="web" url="file://$PROJECT_DIR$/ch4annotated2" />
     <file type="web" url="file://$PROJECT_DIR$/ch5tags-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/ch6converter-demo" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -24,6 +25,7 @@
         <option value="$PROJECT_DIR$/ch4annotated1/pom.xml" />
         <option value="$PROJECT_DIR$/ch4annotated2/pom.xml" />
         <option value="$PROJECT_DIR$/ch5tags-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ch6converterd-emo/pom.xml" />
       </list>
     </option>
   </component>

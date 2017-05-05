@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/ch4annotated1/ch4annotated1.iml" filepath="$PROJECT_DIR$/ch4annotated1/ch4annotated1.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch4annotated2/ch4annotated2.iml" filepath="$PROJECT_DIR$/ch4annotated2/ch4annotated2.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch5tags-demo/ch5tags-demo.iml" filepath="$PROJECT_DIR$/ch5tags-demo/ch5tags-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch6converter-demo/ch6converter-emo.iml" filepath="$PROJECT_DIR$/ch6converter-demo/ch6converter-emo.iml" />
     </modules>
   </component>
 </project>
