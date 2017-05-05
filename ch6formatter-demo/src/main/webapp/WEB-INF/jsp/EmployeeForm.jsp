@@ -27,7 +27,7 @@
                        tabindex="1">
             </p>
             <p>
-                <label for="lastName">First Name: </label>
+                <label for="lastName">Last Name: </label>
                 <input type="text" id="lastName" name="lastName"
                        tabindex="2">
             </p>
