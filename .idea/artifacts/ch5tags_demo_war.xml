@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="ch5tags-demo:war">
     <output-path>$PROJECT_DIR$/ch5tags-demo/target</output-path>
-    <root id="archive" name="springmvc-intro1.war">
+    <root id="archive" name="ch5tags-demo.war">
       <element id="artifact" artifact-name="ch5tags-demo:war exploded" />
     </root>
   </artifact>

@@ -16,14 +16,15 @@
 </head>
 <body>
 <div id="global">
-    <form:form commandName="book" action="save-book" method="post">
+    <form:form commandName="book" acceptCharset="UTF-8" action="save-book" method="post">
         <fieldset>
             <legend>Add a book</legend>
             <p>
                 <label for="category">Category: </label>
                 <form:select id="category" path="category.id"
                     items="${categories}" itemLabel="name"
-                    itemValue="id"/>
+                             itemValue="id">
+                </form:select>
             </p>
             <p>
                 <label for="title">Title: </label>
