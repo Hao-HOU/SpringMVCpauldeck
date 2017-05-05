@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 @Controller
 public class EmployeeController {
     @RequestMapping(value = "add-employee")
-    public String inputEmplyoee(Model model){
+    public String inputEmployee(Model model){
         model.addAttribute(new Employee());
         return "EmployeeForm";
     }
