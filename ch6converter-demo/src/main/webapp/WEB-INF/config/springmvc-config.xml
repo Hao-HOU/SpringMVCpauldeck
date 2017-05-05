@@ -27,6 +27,7 @@
     <bean id="conversionService"
           class="org.springframework.context.support.ConversionServiceFactoryBean">
         <property name="converters">
+            <!-- 一个我暂时不知道原因的报错 -->
             <list>
                 <bean class="converter.StringToLocalDateConverter">
                     <constructor-arg type="java.lang.String" value="MM-dd-yyyy"/>
@@ -36,6 +37,7 @@
     </bean>
 
     <bean id="messageSource" class="org.springframework.context.support.ReloadableResourceBundleMessageSource">
+        <!-- 一个我暂时不知道原因的报错 -->
         <property name="basename" value="/WEB-INF/resource/messages" />
     </bean>
 
