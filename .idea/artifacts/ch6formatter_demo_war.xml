@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch6formatter-demo:war">
+    <output-path>$PROJECT_DIR$/ch6formatter-demo/target</output-path>
+    <root id="archive" name="ch6formatter-demo.war">
+      <element id="artifact" artifact-name="ch6formatter-demo:war exploded" />
+    </root>
+  </artifact>
+</component>

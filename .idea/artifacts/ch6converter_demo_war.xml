@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch6converter-demo:war">
+    <output-path>$PROJECT_DIR$/ch6converter-demo/target</output-path>
+    <root id="archive" name="ch6converter-demo.war">
+      <element id="artifact" artifact-name="ch6converter-demo:war exploded" />
+    </root>
+  </artifact>
+</component>
