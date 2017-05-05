@@ -28,11 +28,12 @@
           class="org.springframework.context.support.ConversionServiceFactoryBean">
         <property name="converters">
             <!-- 一个我暂时不知道原因的报错 -->
-            <list>
+            <!-- 将<list></list>换成<set></set>后错误消失 -->
+            <set>
                 <bean class="converter.StringToLocalDateConverter">
                     <constructor-arg type="java.lang.String" value="MM-dd-yyyy"/>
                 </bean>
-            </list>
+            </set>
         </property>
     </bean>
 

@@ -31,7 +31,7 @@
       <module name="ch5tags-demo" target="1.8" />
       <module name="ch6converter-demo" target="1.8" />
       <module name="ch6converterd-emo" target="1.8" />
-      <module name="ch6formatter-demo" target="1.5" />
+      <module name="ch6formatter-demo" target="1.8" />
       <module name="springmvc-intro1" target="1.8" />
       <module name="springmvc-intro2" target="1.8" />
     </bytecodeTargetLevel>
