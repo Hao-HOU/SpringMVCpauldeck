@@ -20,13 +20,12 @@ import validator.ProductValidator;
 public class ProductController {
     private static final Log logger = LogFactory.getLog(ProductController.class);
 
-    //TODO
     //暂时没用上的一个函数，某一天会用了再来更改
-    @InitBinder
-    public void initBinder(WebDataBinder binder) {
-        binder.setValidator(new ProductValidator());
-        binder.validate();
-    }
+//    @InitBinder
+//    public void initBinder(WebDataBinder binder) {
+//        binder.setValidator(new ProductValidator());
+//        binder.validate();
+//    }
 
     @RequestMapping(value = "/add-product")
     public String inputProduct(Model model) {
