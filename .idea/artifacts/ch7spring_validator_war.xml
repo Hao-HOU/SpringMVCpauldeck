@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch7spring-validator:war">
+    <output-path>$PROJECT_DIR$/ch7spring-validator/target</output-path>
+    <root id="archive" name="ch7spring-validator.war">
+      <element id="artifact" artifact-name="ch7spring-validator:war exploded" />
+    </root>
+  </artifact>
+</component>

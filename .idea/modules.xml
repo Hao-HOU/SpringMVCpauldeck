@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/ch5tags-demo/ch5tags-demo.iml" filepath="$PROJECT_DIR$/ch5tags-demo/ch5tags-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch6converter-demo/ch6converter-demo.iml" filepath="$PROJECT_DIR$/ch6converter-demo/ch6converter-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch6formatter-demo/ch6formatter-demo.iml" filepath="$PROJECT_DIR$/ch6formatter-demo/ch6formatter-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch7spring-validator/ch7spring-validator.iml" filepath="$PROJECT_DIR$/ch7spring-validator/ch7spring-validator.iml" />
     </modules>
   </component>
 </project>
