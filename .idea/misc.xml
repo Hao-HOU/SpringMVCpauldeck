@@ -13,6 +13,7 @@
     <file type="web" url="file://$PROJECT_DIR$/ch5tags-demo" />
     <file type="web" url="file://$PROJECT_DIR$/ch6converter-demo" />
     <file type="web" url="file://$PROJECT_DIR$/ch6formatter-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/ch7jsr303-validator" />
     <file type="web" url="file://$PROJECT_DIR$/ch7spring-validator" />
   </component>
   <component name="MavenProjectsManager">
@@ -31,6 +32,7 @@
         <option value="$PROJECT_DIR$/ch6formatter-demo/pom.xml" />
         <option value="$PROJECT_DIR$/ch6converter-demo/pom.xml" />
         <option value="$PROJECT_DIR$/ch7spring-validator/pom.xml" />
+        <option value="$PROJECT_DIR$/ch7jsr303-validator/pom.xml" />
       </list>
     </option>
   </component>

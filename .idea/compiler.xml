@@ -16,6 +16,7 @@
         <module name="ch6converter-demo" />
         <module name="ch6converterd-emo" />
         <module name="ch6formatter-demo" />
+        <module name="ch7jsr303-validator" />
         <module name="ch7spring-validator" />
         <module name="springmvc-intro1" />
         <module name="springmvc-intro2" />
@@ -33,6 +34,7 @@
       <module name="ch6converter-demo" target="1.8" />
       <module name="ch6converterd-emo" target="1.8" />
       <module name="ch6formatter-demo" target="1.8" />
+      <module name="ch7jsr303-validator" target="1.8" />
       <module name="ch7spring-validator" target="1.8" />
       <module name="springmvc-intro1" target="1.8" />
       <module name="springmvc-intro2" target="1.8" />
