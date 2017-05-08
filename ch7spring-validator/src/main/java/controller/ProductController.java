@@ -7,6 +7,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.validation.BindingResult;
 import org.springframework.validation.FieldError;
+import org.springframework.web.bind.WebDataBinder;
+import org.springframework.web.bind.annotation.InitBinder;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import validator.ProductValidator;
@@ -17,6 +19,14 @@ import validator.ProductValidator;
 @Controller
 public class ProductController {
     private static final Log logger = LogFactory.getLog(ProductController.class);
+
+    //TODO
+    //暂时没用上的一个函数，某一天会用了再来更改
+    @InitBinder
+    public void initBinder(WebDataBinder binder) {
+        binder.setValidator(new ProductValidator());
+        binder.validate();
+    }
 
     @RequestMapping(value = "/add-product")
     public String inputProduct(Model model) {

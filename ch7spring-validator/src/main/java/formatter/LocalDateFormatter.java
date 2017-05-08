@@ -31,7 +31,7 @@ public class LocalDateFormatter implements Formatter<LocalDate> {
             return LocalDate.parse(s, DateTimeFormatter.ofPattern(datePattern));
         } catch (DateTimeParseException e) {
             throw new IllegalArgumentException(
-                    "invalid date formate. Please use this pattern\"" + datePattern + "\""
+                    "invalid date format. Please use this pattern\"" + datePattern + "\""
             );
         }
     }
