@@ -1,0 +1,6 @@
+<%@page isELIgnored="false" %>
+inc4.jsp
+<!--${cp=pageContext.request.contextPath}-->
+<img src="${cp=="/"? "" : cp}/image/image1.png"/>
+${cp=null}
+<img src="${cp=="/"? "" : cp}/image/image2.png"/>

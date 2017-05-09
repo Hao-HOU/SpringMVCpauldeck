@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/ch6formatter-demo/ch6formatter-demo.iml" filepath="$PROJECT_DIR$/ch6formatter-demo/ch6formatter-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch7jsr303-validator/ch7jsr303-validator.iml" filepath="$PROJECT_DIR$/ch7jsr303-validator/ch7jsr303-validator.iml" />
       <module fileurl="file://$PROJECT_DIR$/ch7spring-validator/ch7spring-validator.iml" filepath="$PROJECT_DIR$/ch7spring-validator/ch7spring-validator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch9jstl-demo/ch9jstl-demo.iml" filepath="$PROJECT_DIR$/ch9jstl-demo/ch9jstl-demo.iml" />
     </modules>
   </component>
 </project>
