@@ -16,6 +16,7 @@
     <file type="web" url="file://$PROJECT_DIR$/ch7jsr303-validator" />
     <file type="web" url="file://$PROJECT_DIR$/ch7spring-validator" />
     <file type="web" url="file://$PROJECT_DIR$/ch8jstl-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/ch9iterator" />
     <file type="web" url="file://$PROJECT_DIR$/ch9jstl-demo" />
   </component>
   <component name="MavenProjectsManager">
@@ -36,6 +37,7 @@
         <option value="$PROJECT_DIR$/ch7spring-validator/pom.xml" />
         <option value="$PROJECT_DIR$/ch7jsr303-validator/pom.xml" />
         <option value="$PROJECT_DIR$/ch9jstl-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/ch9iterator/pom.xml" />
       </list>
     </option>
   </component>
