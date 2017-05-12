@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ch10i18n" />
         <module name="ch11upload1" />
+        <module name="ch11upload2" />
         <module name="ch2app1" />
         <module name="ch2app2" />
         <module name="ch2app3" />
@@ -29,6 +30,7 @@
     <bytecodeTargetLevel>
       <module name="ch10i18n" target="1.8" />
       <module name="ch11upload1" target="1.8" />
+      <module name="ch11upload2" target="1.8" />
       <module name="ch2app1" target="1.5" />
       <module name="ch2app2" target="1.5" />
       <module name="ch2app3" target="1.8" />
