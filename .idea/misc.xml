@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/ch10i18n" />
     <file type="web" url="file://$PROJECT_DIR$/ch2app1" />
     <file type="web" url="file://$PROJECT_DIR$/ch2app2" />
     <file type="web" url="file://$PROJECT_DIR$/ch2app3" />
@@ -38,6 +39,7 @@
         <option value="$PROJECT_DIR$/ch7jsr303-validator/pom.xml" />
         <option value="$PROJECT_DIR$/ch9jstl-demo/pom.xml" />
         <option value="$PROJECT_DIR$/ch9iterator/pom.xml" />
+        <option value="$PROJECT_DIR$/ch10i18n/pom.xml" />
       </list>
     </option>
   </component>

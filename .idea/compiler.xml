@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ch10i18n" />
         <module name="ch2app1" />
         <module name="ch2app2" />
         <module name="ch2app3" />
@@ -25,6 +26,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ch10i18n" target="1.8" />
       <module name="ch2app1" target="1.5" />
       <module name="ch2app2" target="1.5" />
       <module name="ch2app3" target="1.8" />
