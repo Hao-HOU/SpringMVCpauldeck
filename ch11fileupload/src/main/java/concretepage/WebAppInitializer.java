@@ -20,7 +20,7 @@ public class WebAppInitializer implements WebApplicationInitializer {
         ctx.refresh();
         ServletRegistration.Dynamic dynamic = servletContext.addServlet("dispatcher", new DispatcherServlet(ctx));
         dynamic.addMapping("/");
-        dynamic.setLoadOnStartup(1);;
+        dynamic.setLoadOnStartup(1);
         dynamic.setMultipartConfig(ctx.getBean(MultipartConfigElement.class));
     }
 }
