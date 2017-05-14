@@ -2,6 +2,7 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/ch10i18n" />
+    <file type="web" url="file://$PROJECT_DIR$/ch11fileupload" />
     <file type="web" url="file://$PROJECT_DIR$/ch11upload1" />
     <file type="web" url="file://$PROJECT_DIR$/ch11upload2" />
     <file type="web" url="file://$PROJECT_DIR$/ch2app1" />
@@ -44,6 +45,7 @@
         <option value="$PROJECT_DIR$/ch10i18n/pom.xml" />
         <option value="$PROJECT_DIR$/ch11upload1/pom.xml" />
         <option value="$PROJECT_DIR$/ch11upload2/pom.xml" />
+        <option value="$PROJECT_DIR$/ch11fileupload/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ch11fileupload:war">
+    <output-path>$PROJECT_DIR$/ch11fileupload/target</output-path>
+    <root id="archive" name="ch11fileupload.war">
+      <element id="artifact" artifact-name="ch11fileupload:war exploded" />
+    </root>
+  </artifact>
+</component>

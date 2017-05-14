@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ch10i18n" />
+        <module name="ch11fileupload" />
         <module name="ch11upload1" />
         <module name="ch11upload2" />
         <module name="ch2app1" />
@@ -29,6 +30,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ch10i18n" target="1.8" />
+      <module name="ch11fileupload" target="1.8" />
       <module name="ch11upload1" target="1.8" />
       <module name="ch11upload2" target="1.8" />
       <module name="ch2app1" target="1.5" />
@@ -49,6 +51,7 @@
       <module name="ch9jstl-demo" target="1.8" />
       <module name="springmvc-intro1" target="1.8" />
       <module name="springmvc-intro2" target="1.8" />
+      <module name="teest" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
