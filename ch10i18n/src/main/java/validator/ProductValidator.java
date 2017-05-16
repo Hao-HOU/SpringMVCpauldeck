@@ -8,7 +8,7 @@ import org.springframework.validation.Validator;
 import java.math.BigDecimal;
 
 /**
- * Created by lttxi on 2017/5/12.
+ * Created by Hao HOU on 2017/5/12.
  */
 public class ProductValidator implements Validator {
 

@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.time.LocalDate;
 
 /**
- * Created by Hao on 2017/5/5.
+ * Created by Hao HOU on 2017/5/5.
  */
 public class Employee implements Serializable {
     private static final long serialVersionUID = 8668523702321530975L;

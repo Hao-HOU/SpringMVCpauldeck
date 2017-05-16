@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import validator.ProductValidator;
 
 /**
- * Created by Hao on 2017/5/8.
+ * Created by Hao HOU on 2017/5/8.
  */
 @Controller
 public class ProductController {

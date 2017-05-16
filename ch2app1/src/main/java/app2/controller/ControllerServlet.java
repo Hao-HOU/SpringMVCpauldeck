@@ -14,7 +14,7 @@ import java.io.IOException;
 import java.math.BigDecimal;
 
 /**
- * Created by Hao on 2017/4/28.
+ * Created by Hao HOU on 2017/4/28.
  */
 @WebServlet(name = "ControllerServlet", urlPatterns = {
         "/input-product", "save-product"

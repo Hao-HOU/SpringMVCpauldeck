@@ -9,7 +9,7 @@ import java.time.format.DateTimeParseException;
 import java.util.Locale;
 
 /**
- * Created by Hao on 2017/5/8.
+ * Created by Hao HOU on 2017/5/8.
  */
 public class LocalDateFormatter implements Formatter<LocalDate> {
     private DateTimeFormatter formatter;

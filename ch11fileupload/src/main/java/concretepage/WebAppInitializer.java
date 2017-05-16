@@ -10,7 +10,7 @@ import javax.servlet.ServletException;
 import javax.servlet.ServletRegistration;
 
 /**
- * Created by lttxi on 2017/5/12.
+ * Created by Hao HOU on 2017/5/12.
  */
 public class WebAppInitializer implements WebApplicationInitializer {
     public void onStartup(ServletContext servletContext) throws ServletException {

@@ -7,7 +7,7 @@ import java.time.format.DateTimeFormatter;
 import java.time.format.DateTimeParseException;
 
 /**
- * Created by Hao on 2017/5/5.
+ * Created by Hao HOU on 2017/5/5.
  */
 public class StringToLocalDateConverter implements Converter<String, LocalDate> {
     private String datePattern;

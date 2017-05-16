@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 
 /**
- * Created by Hao on 2017/5/4.
+ * Created by Hao HOU on 2017/5/4.
  */
 public class Book implements Serializable {
     private static final long serialVersionUID = 7461688389112847430L;

@@ -5,7 +5,7 @@ import org.springframework.format.FormatterRegistrar;
 import org.springframework.format.FormatterRegistry;
 
 /**
- * Created by Hao on 2017/5/5.
+ * Created by Hao HOU on 2017/5/5.
  */
 public class MyFormatterRegistrar implements FormatterRegistrar {
     private String datePattern;

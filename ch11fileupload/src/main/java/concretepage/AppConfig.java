@@ -11,7 +11,7 @@ import org.springframework.web.servlet.view.UrlBasedViewResolver;
 import javax.servlet.MultipartConfigElement;
 
 /**
- * Created by lttxi on 2017/5/12.
+ * Created by Hao HOU on 2017/5/12.
  */
 @Configuration
 @ComponentScan

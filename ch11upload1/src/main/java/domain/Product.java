@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 import java.util.List;
 
 /**
- * Created by lttxi on 2017/5/12.
+ * Created by Hao HOU on 2017/5/12.
  */
 public class Product implements Serializable {
     private static final long serialVersionUID = -5521544309275815404L;

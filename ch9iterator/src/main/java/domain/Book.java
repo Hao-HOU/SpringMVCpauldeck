@@ -3,7 +3,7 @@ package domain;
 import java.math.BigDecimal;
 
 /**
- * Created by Hao on 2017/5/10.
+ * Created by Hao HOU on 2017/5/10.
  */
 public class Book {
     private String isbn;

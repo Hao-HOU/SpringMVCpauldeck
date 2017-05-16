@@ -4,7 +4,7 @@ import java.io.Serializable;
 import java.math.BigDecimal;
 
 /**
- * Created by Hao on 2017/4/28.
+ * Created by Hao HOU on 2017/4/28.
  */
 public class Product implements Serializable{
 

@@ -9,7 +9,7 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 
 /**
- * Created by Hao on 2017/5/8.
+ * Created by Hao HOU on 2017/5/8.
  */
 public class ProductValidator implements Validator {
 

@@ -3,7 +3,7 @@ package domain;
 import java.io.Serializable;
 
 /**
- * Created by Hao on 2017/5/3.
+ * Created by Hao HOU on 2017/5/3.
  */
 public class Product implements Serializable {
 

@@ -1,7 +1,7 @@
 package app3.form;
 
 /**
- * Created by Hao on 2017/4/28.
+ * Created by Hao HOU on 2017/4/28.
  */
 public class ProductForm {
     private String name;

@@ -14,7 +14,7 @@ import validator.ProductValidator;
 import javax.validation.Valid;
 
 /**
- * Created by lttxi on 2017/5/12.
+ * Created by Hao HOU on 2017/5/12.
  */
 @Controller
 public class ProductController {

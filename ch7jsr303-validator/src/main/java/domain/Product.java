@@ -7,7 +7,7 @@ import java.math.BigDecimal;
 import java.time.LocalDate;
 
 /**
- * Created by Hao on 2017/5/8.
+ * Created by Hao HOU on 2017/5/8.
  */
 public class Product implements Serializable {
     private static final long serialVersionUID = -5521544309275815404L;

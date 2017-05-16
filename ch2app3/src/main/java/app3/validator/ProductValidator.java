@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Hao on 2017/4/28.
+ * Created by Hao HOU on 2017/4/28.
  */
 public class ProductValidator {
     public List<String> validate(ProductForm productForm){

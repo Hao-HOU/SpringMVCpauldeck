@@ -5,7 +5,7 @@ import org.springframework.web.multipart.MultipartFile;
 import java.io.Serializable;
 
 /**
- * Created by lttxi on 2017/5/12.
+ * Created by Hao HOU on 2017/5/12.
  */
 public class UploadedFile implements Serializable {
     private static final long serialVersionUID = -783678928610448472L;
