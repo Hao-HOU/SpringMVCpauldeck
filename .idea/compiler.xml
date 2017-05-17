@@ -11,6 +11,7 @@
         <module name="ch11upload1" />
         <module name="ch11upload2" />
         <module name="ch12download" />
+        <module name="ch13integration-test" />
         <module name="ch13unit-test" />
         <module name="ch2app1" />
         <module name="ch2app2" />
@@ -36,6 +37,7 @@
       <module name="ch11upload1" target="1.8" />
       <module name="ch11upload2" target="1.8" />
       <module name="ch12download" target="1.8" />
+      <module name="ch13integration-test" target="1.8" />
       <module name="ch13unit-test" target="1.8" />
       <module name="ch2app1" target="1.5" />
       <module name="ch2app2" target="1.5" />

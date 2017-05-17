@@ -49,6 +49,7 @@
         <option value="$PROJECT_DIR$/ch11fileupload/pom.xml" />
         <option value="$PROJECT_DIR$/ch12download/pom.xml" />
         <option value="$PROJECT_DIR$/ch13unit-test/pom.xml" />
+        <option value="$PROJECT_DIR$/ch13integration-test/pom.xml" />
       </list>
     </option>
   </component>
