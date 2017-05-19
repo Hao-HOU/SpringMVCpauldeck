@@ -23,7 +23,7 @@ import org.springframework.web.context.WebApplicationContext;
 
 @RunWith(SpringJUnit4ClassRunner.class)
 @WebAppConfiguration("/webapp")
-@ContextConfiguration(locations = "test-config.xml")
+@ContextConfiguration(locations = "../../resources/test-config.xml")
 public class WebAppControllerTest {
     @Autowired
     private WebApplicationContext webAppContext;
